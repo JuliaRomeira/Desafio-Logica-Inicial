@@ -12,7 +12,9 @@ Este repositório contém meus desafios de lógica de programação realizados d
 O objetivo deste repositório é documentar e organizar os desafios realizados, permitindo que eu pratique e refine minhas habilidades de programação, com foco em lógica. Através desses desafios, busco entender e aplicar novas soluções para problemas práticos, além de melhorar minha capacidade de resolver questões de forma eficiente e clara.
 
 ## Desafios 📚
+
 1 - Desafio Classificador de nível de Herói
+
 2 - Calculadora de partidas Rankeadas
 
 **O que foi ultlizado:**
