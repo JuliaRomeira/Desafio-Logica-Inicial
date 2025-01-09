@@ -1,66 +1,25 @@
-# Sistema de Classificação de Heróis
+# Desafios de Programação 🚀
 
-Este é um pequeno programa em JavaScript que determina o nível de um herói com base em sua quantidade de experiência (XP). O objetivo é praticar conceitos de lógica de programação, estrutura de decisão e saídas formatadas.
+Este repositório contém meus desafios de lógica de programação realizados durante o curso da Dio, com o objetivo de aprimorar minhas habilidades em JavaScript e explorar conceitos e ferramentas do desenvolvimento.
 
-## 🚀 Funcionalidades
+## Tecnologias e Ambiente 🛠️
 
-### • Classifica heróis em diferentes níveis com base no XP:
+- **Tecnologias**: JavaScript
+- **Ambiente**: Node.js, utilizando o console do VS Code
 
-• **Ferro:** menos de 1.000 XP
+## Objetivo 🎯
 
-• **Bronze:** entre 1.001 e 2.000 XP
+O objetivo deste repositório é documentar e organizar os desafios realizados, permitindo que eu pratique e refine minhas habilidades de programação, com foco em lógica. Através desses desafios, busco entender e aplicar novas soluções para problemas práticos, além de melhorar minha capacidade de resolver questões de forma eficiente e clara.
 
-• **Prata:** entre 2.001 e 5.000 XP
+## Desafios 📚
+1 - Desafio Classificador de nível de Herói
+2 - Calculadora de partidas Rankeadas
 
-• **Ouro:** entre 5.001 e 7.000 XP
+**O que foi ultlizado:**
 
-• **Platina:** entre 7.001 e 8.000 XP
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+- Funções
 
-• **Acendente:** entre 8.001 e 9.000 XP
-
-• **Imortal:** entre 9.001 e 10.000 XP
-
-• **Radiante:** acima de 10.000 XP
-
-• Exibe uma mensagem personalizada com o nome e o nível do herói
-
-
-
-
-## 🛠️ Tecnologias Utilizadas
-
-
-
-• Linguagem: __JavaScript__
-
-• Ambiente: GESP (ferramenta utilizada para depuração e execução de códigos JavaScript)
-
-
-
-
-
-## 📝 Como Usar?
-
-• Certifique-se de ter um ambiente configurado para rodar JavaScript (navegador ou Node.js).
-
-• Copie o código para um arquivo .js.
-
-• Substitua os valores das variáveis nome​​e experienciaXppelo nome e XP do herói.
-
-• Execute o arquivo no ambiente configurado.
-
-• Confira a mensagem gerada no console.
-
-
-
-
-
-## 🎯 Objetivo do desafio
-
-### • Este projeto foi criado como parte de um desafio pessoal para praticar:
-
-• Declaração de variáveis
-
-• Estruturas de decisão ( if, else if, else)
-
-• Saída formatada com console.log
